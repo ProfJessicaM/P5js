@@ -1,3 +1,3 @@
-# P5js
+# Pong-js
 
 Professora: Jéssica Meloqueiro
